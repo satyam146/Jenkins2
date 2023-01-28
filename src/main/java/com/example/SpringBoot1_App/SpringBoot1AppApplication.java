@@ -4,7 +4,7 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SpringBoot1AppApplication implements CommandLineRunner{
+public class SpringBoot1AppApplication implements commandLineRunner{
 
 	@Override
 	public void run(String args[]) throws Exception {
